@@ -1,4 +1,4 @@
-/*** 
+h/*** 
 
 ====================================================================
 	Main Header
@@ -804,11 +804,11 @@
 .header-style-two .logo{
 	width:240px;
 	height:auto;
-	padding:27px 0px;
+	
 	max-width:inherit;
 	padding-right: 80px;
 	margin:var(--margin-zero);
-	margin-right:70px;
+	margin-right:55px;
 }
 
 .header-style-two.fixed-header .logo{
